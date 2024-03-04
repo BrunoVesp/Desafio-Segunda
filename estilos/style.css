@@ -31,16 +31,14 @@ section#login {
     line-height: 25px;
     letter-spacing: 0em;
     text-align: left;
-
+    padding: 40px;
     color: white;
 }
 
 section#login > input {
     background-color: #353535;
     color: white;
-
     font-size: 20px;
-
     width: 400px;
     height: 57px;
     top: 120px;
@@ -55,14 +53,11 @@ section#login > input {
 .botao {
     background-color: #2FB23C;
     color: white;
-
     font-size: 30px;
-
     border: none;
     border-radius: 10px;
     width: 191px;
     height: 67px;
-    margin-top: 50px;
 }
 
 .botao:hover {
